@@ -423,3 +423,9 @@ go/pkg/mod/cache
 .var/app/**/Code Cache
 .var/app/**/GPUCache
 
+mydata
+#build
+#vm
+#Nutstore\ Files
+#Downloads/wd-mbl
+
