@@ -438,3 +438,8 @@ mydata
 #vm
 #Nutstore\ Files
 #Downloads/wd-mbl
+Downloads/*.iso
+Downloads/*/*.iso
+Downloads/*/*/*.iso
+
+build/chroot/chroot-autobuild/*
