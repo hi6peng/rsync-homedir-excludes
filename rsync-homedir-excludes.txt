@@ -443,3 +443,5 @@ Downloads/*/*.iso
 Downloads/*/*/*.iso
 
 build/chroot/chroot-autobuild/*
+.local/share/containers/
+vm/
