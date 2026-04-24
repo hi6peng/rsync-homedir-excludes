@@ -441,6 +441,9 @@ mydata
 Downloads/*.iso
 Downloads/*/*.iso
 Downloads/*/*/*.iso
+下载/*.iso
+下载/*/*.iso
+下载/*/*/*.iso
 
 build/chroot/chroot-autobuild/*
 .local/share/containers/
