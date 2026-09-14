@@ -444,6 +444,7 @@ Downloads/*/*/*.iso
 下载/*.iso
 下载/*/*.iso
 下载/*/*/*.iso
+下载/chroot/chroot-autobuild/*
 
 build/chroot/chroot-autobuild/*
 .local/share/containers/
