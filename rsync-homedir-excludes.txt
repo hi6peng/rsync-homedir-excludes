@@ -449,3 +449,5 @@ Downloads/*/*/*.iso
 build/chroot/chroot-autobuild/*
 .local/share/containers/
 vm/
+.config/vivaldi/*
+.var/app/*
